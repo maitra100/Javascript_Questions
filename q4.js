@@ -29,3 +29,5 @@ func2 = (str_arr) => {
 
 console.log(func1(str_arr))
 console.log(func2(str_arr))
+
+module.exports={func1,func2};

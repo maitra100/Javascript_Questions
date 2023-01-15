@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "jest": "^29.3.1"
+  },
+  "name": "javascript_q",
+  "version": "1.0.0",
+  "main": "q1.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maitra100/Javascript_Questions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maitra100/Javascript_Questions/issues"
+  },
+  "homepage": "https://github.com/maitra100/Javascript_Questions#readme",
+  "description": ""
+}

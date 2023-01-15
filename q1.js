@@ -25,3 +25,5 @@ func2 = (arr) => {
 
 console.log(func1(arr))
 console.log(func2(arr))
+
+module.exports={func1,func2};
