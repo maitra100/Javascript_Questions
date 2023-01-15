@@ -11,7 +11,7 @@ function func1(arr){
     return ans;
 }
 
-func2 = () => {
+func2 = (arr) => {
     let len=arr.length
     let ans=-1
     for(let i=0;i<len;i++){
