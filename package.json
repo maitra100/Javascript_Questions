@@ -5,7 +5,9 @@
   "name": "javascript_q",
   "version": "1.0.0",
   "main": "q1.js",
-  "devDependencies": {},
+  "devDependencies": {
+    "eslint": "^8.32.0"
+  },
   "scripts": {
     "test": "jest"
   },
